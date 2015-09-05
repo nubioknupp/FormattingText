@@ -1,0 +1,6 @@
+D:\GitHub\FormattingText\FormattingText\bin\Debug\FormattingText.exe.config
+D:\GitHub\FormattingText\FormattingText\bin\Debug\FormattingText.exe
+D:\GitHub\FormattingText\FormattingText\bin\Debug\FormattingText.pdb
+D:\GitHub\FormattingText\FormattingText\obj\Debug\FormattingText.csprojResolveAssemblyReference.cache
+D:\GitHub\FormattingText\FormattingText\obj\Debug\FormattingText.exe
+D:\GitHub\FormattingText\FormattingText\obj\Debug\FormattingText.pdb
